@@ -1,6 +1,8 @@
-### Hi👋  I`m Diana!
+### ***Hi! I`m Diana.***
 
 
+
+### *My social networks:*
 
 [![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/dianakyryna/)
 [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/dkyryna)
