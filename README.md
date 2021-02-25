@@ -1,5 +1,8 @@
 ### Hi👋  I`m Diana!
 
+
+
+[![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/dianakyryna/)
 <!--
 **dianaky/dianaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
