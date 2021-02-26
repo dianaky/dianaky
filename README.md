@@ -1,4 +1,5 @@
-### ***Hi! I`m Diana.***
+### ***Hi! I'm Diana. I'm 20. I live in Kharkov and I study at the Kharkov Aviation Institute. *** 
+
 
 
 
@@ -6,6 +7,7 @@
 
 [![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/dianakyryna/)
 [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/dkyryna)
+
 <!--
 **dianaky/dianaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
