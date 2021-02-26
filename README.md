@@ -1,4 +1,4 @@
-### Hi! I'm Diana. I'm 20. I live in Kharkov and I study at the Kharkov Aviation Institute. I p
+### Hi! I'm Diana. I'm 20. I live in Kharkov and I study at the Kharkov Aviation Institute. 
 
 #### *I want to know:*
 ![Cloud](https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=gcp) ![Cloud](https://img.shields.io/badge/Terraform-blueviolet?style=for-the-badge&logo=Terraform) ![Cloud](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux)
