@@ -1,4 +1,4 @@
-### ***Hi! I'm Diana. I'm 20. I live in Kharkov and I study at the Kharkov Aviation Institute. *** 
+### Hi! I'm Diana. I'm 20. I live in Kharkov and I study at the Kharkov Aviation Institute. 
 
 
 
